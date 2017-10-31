@@ -1,2 +1,0 @@
-# moody-mpc
-Personal Website
